@@ -20,6 +20,12 @@ body
   background-color: rgb(199, 199, 195);
   line-height: 2em;
 }
+section figure div {
+    position: relative;
+    display: inline-block;
+    max-width: 100%;
+    padding: 0;
+}
 .container{
   float: right;
   width: 80%;
